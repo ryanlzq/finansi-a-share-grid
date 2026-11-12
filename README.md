@@ -35,7 +35,7 @@ A股网格交易回测：按档位模拟低买高卖，回答一个很具体的�
 ## 安装
 
 ```bash
-git clone https://github.com/LINZIQI24GITHUB/finansi-a-share-grid.git
+git clone https://github.com/ryanlzq/finansi-a-share-grid.git
 ```
 
 放到 Agent 的 skills 目录：
@@ -51,7 +51,7 @@ Windows 示例：
 
 ```powershell
 New-Item -ItemType Directory -Force "$HOME\.agents\skills" | Out-Null
-git clone https://github.com/LINZIQI24GITHUB/finansi-a-share-grid.git "$HOME\.agents\skills\a-share-grid"
+git clone https://github.com/ryanlzq/finansi-a-share-grid.git "$HOME\.agents\skills\a-share-grid"
 ```
 
 依赖：
